@@ -26,23 +26,19 @@ export default {
           "timezone": "Europe/London"
         },
         {
-          "name": "dragonblitz10",
+          "name": "alistair",
           "timezone": "Europe/London"
         },
         {
-          "name": "aabbccsmith",
-          "timezone": "Europe/London"
-        },
-        {
-          "name": "jaсk",
+          "name": "jack!",
           "timezone": "America/New_York"
         },
         {
-          "name": "scintilla",
+          "name": "Lina",
           "timezone": "America/Mexico_City"
         },
         {
-          "name": "yetanothermatt",
+          "name": "mattt",
           "timezone": "America/Vancouver"
         },
         {
